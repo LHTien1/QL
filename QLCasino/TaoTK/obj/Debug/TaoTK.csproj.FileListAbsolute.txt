@@ -1,0 +1,34 @@
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\TaoTK.exe.config
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\TaoTK.exe
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\TaoTK.pdb
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\DangKiTK.exe
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\QLCasino.exe
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\DangKiTK.pdb
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\DangKiTK.exe.config
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\QLCasino.pdb
+E:\Đồ án THWD\QLCasino\TaoTK\bin\Debug\QLCasino.exe.config
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.AssemblyReference.cache
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.frm_TaoTK.resources
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.Properties.Resources.resources
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.GenerateResource.cache
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.CoreCompileInputs.cache
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.Up2Date
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.exe
+E:\Đồ án THWD\QLCasino\TaoTK\obj\Debug\TaoTK.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\TaoTK.exe.config
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\TaoTK.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\TaoTK.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\DangKiTK.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\QLCasino.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\DangKiTK.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\DangKiTK.exe.config
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\QLCasino.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\bin\Debug\QLCasino.exe.config
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.frm_TaoTK.resources
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.csproj.Up2Date
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\TaoTK\obj\Debug\TaoTK.pdb

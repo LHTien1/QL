@@ -1,0 +1,20 @@
+E:\Đồ án THWD\QLCasino\DangKiTK\bin\Debug\DangKiTK.exe.config
+E:\Đồ án THWD\QLCasino\DangKiTK\bin\Debug\DangKiTK.exe
+E:\Đồ án THWD\QLCasino\DangKiTK\bin\Debug\DangKiTK.pdb
+E:\Đồ án THWD\QLCasino\DangKiTK\obj\Debug\DangKiTK.csproj.AssemblyReference.cache
+E:\Đồ án THWD\QLCasino\DangKiTK\obj\Debug\DangKiTK.frm_DKTK.resources
+E:\Đồ án THWD\QLCasino\DangKiTK\obj\Debug\DangKiTK.Properties.Resources.resources
+E:\Đồ án THWD\QLCasino\DangKiTK\obj\Debug\DangKiTK.csproj.GenerateResource.cache
+E:\Đồ án THWD\QLCasino\DangKiTK\obj\Debug\DangKiTK.csproj.CoreCompileInputs.cache
+E:\Đồ án THWD\QLCasino\DangKiTK\obj\Debug\DangKiTK.exe
+E:\Đồ án THWD\QLCasino\DangKiTK\obj\Debug\DangKiTK.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\bin\Debug\DangKiTK.exe.config
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\bin\Debug\DangKiTK.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\bin\Debug\DangKiTK.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\obj\Debug\DangKiTK.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\obj\Debug\DangKiTK.frm_DKTK.resources
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\obj\Debug\DangKiTK.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\obj\Debug\DangKiTK.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\obj\Debug\DangKiTK.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\obj\Debug\DangKiTK.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\DangKiTK\obj\Debug\DangKiTK.pdb

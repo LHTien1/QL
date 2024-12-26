@@ -1,0 +1,25 @@
+E:\Đồ án THWD\QLCasino\QLCasino\bin\Debug\QLCasino.exe.config
+E:\Đồ án THWD\QLCasino\QLCasino\bin\Debug\QLCasino.exe
+E:\Đồ án THWD\QLCasino\QLCasino\bin\Debug\QLCasino.pdb
+E:\Đồ án THWD\QLCasino\QLCasino\obj\Debug\QLCasino.csproj.AssemblyReference.cache
+E:\Đồ án THWD\QLCasino\QLCasino\obj\Debug\QLCasino.frm_casino.resources
+E:\Đồ án THWD\QLCasino\QLCasino\obj\Debug\QLCasino.Properties.Resources.resources
+E:\Đồ án THWD\QLCasino\QLCasino\obj\Debug\QLCasino.csproj.GenerateResource.cache
+E:\Đồ án THWD\QLCasino\QLCasino\obj\Debug\QLCasino.csproj.CoreCompileInputs.cache
+E:\Đồ án THWD\QLCasino\QLCasino\obj\Debug\QLCasino.exe
+E:\Đồ án THWD\QLCasino\QLCasino\obj\Debug\QLCasino.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\bin\Debug\QLCasino.exe.config
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\bin\Debug\QLCasino.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\bin\Debug\QLCasino.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.frm_casino.resources
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.Properties.Resources.resources
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.khachHangcs.resources
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\bin\Debug\DangKiTK.exe
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\bin\Debug\DangKiTK.pdb
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\bin\Debug\DangKiTK.exe.config
+C:\Users\Admin\Downloads\QLCasino\QLCasino\QLCasino\obj\Debug\QLCasino.csproj.Up2Date
